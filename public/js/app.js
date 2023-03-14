@@ -45153,7 +45153,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 
-// props são tipos as variaveis
+// props são tipos as variáveis e são usadas como parametros
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['titulo', 'url']
 

@@ -33,7 +33,7 @@
 </template>
 
 <script>
-// props são tipos as variaveis
+// props são tipos as variáveis e são usadas como parametros
   export default {
     props:['titulo','url']
       
